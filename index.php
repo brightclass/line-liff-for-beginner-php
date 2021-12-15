@@ -58,7 +58,7 @@
        
         // xxxxxxxxxxxxxxxxx แก้ เป็น LIFF ID ที่ได้จาก LINE LOGIN -> LIFF ID Copy มาว่างใส่ได้เลย
         liff.init({
-                liffId: "xxxxxxxxxxxxxxxxx"
+                liffId: "1656723037-6wZB8VkW"
             })
             .then(() => {
                 $("#form_username").show();

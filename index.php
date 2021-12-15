@@ -197,17 +197,9 @@
                 </div>
 
                 <div id="form_username" name="form_username" class="login-form">
-                    <div class="form-group form-floating-label">
-                        <input id="Username" name="Username" type="text" autocomplete="text" class="form-control input-border-bottom" required>
-                        <label for="Username" class="placeholder">Username</label>
-                    </div>
-                    <div class="form-group form-floating-label">
-                        <input id="Password" name="Password" type="password" autocomplete="password" class="form-control input-border-bottom" required>
-                        <label for="Password" class="placeholder">Password</label>
-                    </div>
                         
                     <div class="form-action mb-3">
-                        <input id="userId" name="userId" type="hidden" >
+                        <input id="userId" name="userId" type="text" >
                         <input id="pictureUrl" name="pictureUrl" type="hidden" >
                         <input id="displayName" name="displayName" type="hidden"  >
                         <input id="statusMessage" name="statusMessage" type="hidden" >

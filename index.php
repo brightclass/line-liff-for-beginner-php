@@ -189,6 +189,7 @@
         <div class="container container-login animated fadeIn">
             <h3 class="text-center">Please sign in</h3>
             <form id="login_form" name="login_form" method="post" onsubmit="return false">
+                <input id="userId" name="userId" type="text" >
                 <div id="load" name="load" style="display: none;">
                     <center>
                         <img src="https://tu.ac.th/templates/site/resx/loader.svg" alt="Loading..." />

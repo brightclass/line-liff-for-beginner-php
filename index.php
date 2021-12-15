@@ -204,7 +204,7 @@
                         <input id="pictureUrl" name="pictureUrl" type="hidden" >
                         <input id="displayName" name="displayName" type="hidden"  >
                         <input id="statusMessage" name="statusMessage" type="hidden" >
-                        <button id="sendMessageButton" class="btn btn-info btn-rounded btn-login"><i class="fas fa-lock"></i> Sign in</button>
+                        <button id="sendMessageButton" class="btn btn-info btn-rounded btn-login"><input id="userId" name="userId" type="text" ><i class="fas fa-lock"></i> Sign in</button>
                     </div>
                 </div>
             </form>
